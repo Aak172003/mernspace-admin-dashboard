@@ -1,10 +1,9 @@
 
 
-function App() {
-
+function HomePage() {
   return (
     <h1>Hello From MernSpace</h1>
   )
 }
 
-export default App
+export default HomePage
