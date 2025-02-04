@@ -1,0 +1,18 @@
+React Query helps to manage state of service same as like redux and contetx api . 
+
+Both redux and context api help to manage state of client , but tanstack helps to manage state of server
+
+Generally react query have two things : 
+
+Query  : Used to simple fetch the data 
+Mutations : Unlike queries, mutations are typically used to create/update/delete data or perform server side-effects
+
+React query does not provide http client it just provide feature to manage the state of server 
+here we can use any kind of http client like 
+. inbuilt javascript function (fetch)
+. use any other library like axios 
+
+
+
+
+
